@@ -13,7 +13,7 @@ I analyzed a layoff dataset spanning from March 2020 to March 2023 using SQL Ser
 ***
 
 ## Business Task
-Analyze layoff trends to identify industry and geographic vulnerabilities during economic downturns, and provide insights to guide workforce planning and risk mitigation strategies.
+Analyze layoff trends to identify industry and regional vulnerabilities during the economic downturn caused by the 2023 pandemic.
 
 ## Why This Task Matters
 - The COVID-19 pandemic caused widespread disruption starting in March 2020.
